@@ -1,0 +1,5 @@
+INSTALLATION
+
+- Copy "iphone_photo" directory to a webserver, ideally you have a local webserver and you would copy that under your document root.
+- Optionally you may want to edit HTTPhoto/Classes/HTTPhotoViewController.m and set the correct path to the upload script.
+- Open HTTPhoto/HTTPhoto.xcodeproj and build the app
